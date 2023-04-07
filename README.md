@@ -1,4 +1,4 @@
-# docs
+# Articles
 
 Repository to host articles.  
 
